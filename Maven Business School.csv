@@ -1,0 +1,1201 @@
+Student ID,Undergrad Degree,Undergrad Grade,MBA Grade,Work Experience,Employability_Before,Employability_After,Status,Annual Salary
+1,Business,68.4,90.2,No,252,276,Placed,111000
+2,Business,62.1,92.8,No,423,410,Not Placed,0
+3,Computer Science,70.2,68.7,Yes,101,119,Placed,107000
+4,Engineering,75.1,80.7,No,288,334,Not Placed,0
+5,Finance,60.9,74.9,No,248,252,Not Placed,0
+6,Computer Science,74.5,80.7,No,145,209,Not Placed,0
+7,Finance,76.4,83.3,No,401,462,Placed,109000
+8,Business,82.6,88.7,No,287,342,Placed,148000
+9,Finance,76.9,75.4,No,275,347,Placed,255500
+10,Computer Science,83.3,82.1,No,254,313,Placed,103500
+11,Business,75.8,87.5,No,182,232,Not Placed,0
+12,Engineering,76,66.9,No,117,163,Placed,114500
+13,Business,62.8,71.3,No,130,119,Not Placed,0
+14,Engineering,82.8,76.8,No,219,304,Placed,124000
+15,Business,76,72.3,No,152,211,Placed,132500
+16,Finance,76.9,72.4,No,228,286,Placed,99000
+17,Computer Science,75.8,72,Yes,62,122,Not Placed,0
+18,Art,78,81,No,393,443,Placed,124000
+19,Business,82.4,96.1,No,277,366,Not Placed,0
+20,Computer Science,76.2,76.7,No,206,244,Not Placed,0
+21,Business,62.5,80.3,No,229,241,Not Placed,0
+22,Art,78,77.8,No,182,237,Placed,82000
+23,Engineering,66.5,62.6,No,98,122,Not Placed,0
+24,Computer Science,63.5,80.2,No,125,129,Not Placed,0
+25,Business,82.6,79.1,No,164,236,Placed,185000
+26,Computer Science,79.2,77.8,No,186,251,Placed,89500
+27,Computer Science,75,75.1,No,235,283,Placed,91500
+28,Art,74.4,82.2,No,184,225,Not Placed,0
+29,Finance,67.9,70.5,No,76,102,Not Placed,0
+30,Art,76.8,70.8,No,126,180,Placed,113500
+31,Business,83,87.5,No,183,247,Not Placed,0
+32,Computer Science,88.9,79.5,No,242,343,Not Placed,0
+33,Business,76.5,80.8,No,207,283,Not Placed,0
+34,Finance,79.9,79.6,Yes,181,253,Placed,99000
+35,Business,70.4,88.9,No,239,263,Not Placed,0
+36,Art,83.4,85.9,No,216,291,Placed,75500
+37,Business,79.2,82.3,Yes,289,368,Placed,86000
+38,Engineering,61.2,76.7,No,213,206,Not Placed,0
+39,Art,64,79.9,No,209,231,Not Placed,0
+40,Art,68,86.2,Yes,376,389,Not Placed,0
+41,Engineering,78.5,79.2,No,332,396,Placed,156500
+42,Business,83,83.4,Yes,249,339,Placed,99500
+43,Finance,75.2,85.2,Yes,228,286,Placed,148000
+44,Business,68.1,77.8,No,124,146,Not Placed,0
+45,Finance,93.6,80.2,No,194,315,Placed,82000
+46,Business,75.6,71,Yes,157,183,Not Placed,0
+47,Business,82.3,87.2,No,402,481,Placed,103500
+48,Business,71.4,82.9,No,323,349,Not Placed,0
+49,Engineering,71.9,73.5,No,181,225,Placed,205500
+50,Art,79.1,74.6,No,157,217,Placed,103500
+51,Business,88.7,75.1,Yes,266,353,Placed,340000
+52,Engineering,69.4,85.1,No,268,314,Not Placed,0
+53,Business,80.3,74.9,Yes,167,247,Placed,103500
+54,Finance,83,84.6,Yes,342,410,Placed,99500
+55,Business,74.1,81.7,Yes,349,395,Placed,103000
+56,Engineering,79.4,81.4,No,340,416,Placed,103500
+57,Business,88.1,83.8,Yes,227,342,Placed,165000
+58,Computer Science,74.6,88.5,Yes,409,446,Placed,124500
+59,Computer Science,87.1,84.9,Yes,400,477,Placed,103500
+60,Computer Science,79.7,84.3,No,374,444,Placed,82500
+61,Computer Science,82.1,78.2,No,255,351,Placed,93000
+62,Finance,70.2,80,No,146,165,Not Placed,0
+63,Business,81.7,74.8,No,248,317,Placed,168000
+64,Computer Science,76.1,78.5,No,198,250,Placed,96000
+65,Engineering,65.4,71.8,Yes,210,217,Not Placed,0
+66,Engineering,70.1,69.9,Yes,107,138,Not Placed,0
+67,Business,75.3,82.7,Yes,239,302,Placed,80000
+68,Computer Science,68.7,74,No,287,311,Not Placed,0
+69,Business,75.7,84,Yes,340,373,Placed,124500
+70,Computer Science,68.7,84.7,No,155,196,Not Placed,0
+71,Engineering,70.4,78.2,Yes,263,306,Placed,99000
+72,Engineering,68.3,85,Yes,265,302,Not Placed,0
+73,Business,71.7,80.1,No,249,278,Not Placed,0
+74,Computer Science,70.9,85.3,No,377,429,Not Placed,0
+75,Engineering,66.3,79.7,No,301,338,Placed,124000
+76,Business,65.3,79.6,No,242,261,Not Placed,0
+77,Business,75.7,78.9,No,211,256,Not Placed,0
+78,Finance,66,78.5,No,160,183,Placed,91500
+79,Business,78.9,72,No,218,274,Placed,144500
+80,Business,74,74.2,No,133,182,Not Placed,0
+81,Business,74.6,71.7,No,122,183,Not Placed,0
+82,Engineering,79.3,80.7,No,236,309,Placed,114500
+83,Engineering,70.1,84.1,No,143,178,Not Placed,0
+84,Business,88.8,87.4,No,354,458,Placed,104500
+85,Business,66,77.4,Yes,214,234,Placed,124000
+86,Art,82.9,84.7,Yes,225,306,Placed,113000
+87,Business,100,78.8,No,261,400,Placed,78000
+88,Business,75.6,92.7,No,277,402.457789,Not Placed,0
+89,Finance,67.5,88.8,No,282,404.915578,Placed,109000
+90,Computer Science,68.7,86.6,No,322,407.373367,Not Placed,0
+91,Business,76,77.9,No,326,409.831156,Placed,99500
+92,Computer Science,67.7,86.1,No,421,412.288945,Placed,107000
+93,Engineering,75.3,89.9,No,368,414.746734,Not Placed,0
+94,Engineering,68.1,83.1,No,279,417.204523,Placed,84000
+95,Finance,63.3,82.6,No,268,419.662312,Not Placed,111000
+96,Business,68.4,65,Yes,261,422.120101,Placed,0
+97,Computer Science,62.1,59,No,261,424.57789,Placed,107000
+98,Engineering,70.2,66.7,No,261,427.035679,Not Placed,0
+99,Finance,75.1,71.3,No,261,429.493468,Placed,0
+100,Art,60.9,57.9,No,261,431.951257,Not Placed,0
+101,Business,74.5,70.8,No,261,434.409046,Placed,109000
+102,Computer Science,76.4,72.6,No,261,436.866835,Placed,148000
+103,Engineering,82.6,78.5,No,261,439.324624,Not Placed,255500
+104,Finance,76.9,73.1,No,261,441.782413,Placed,103500
+105,Art,83.3,79.1,No,261,444.240202,Not Placed,0
+106,Business,75.8,72,Yes,260,446.697991,Placed,114500
+107,Computer Science,76,72.2,No,260,449.15578,Placed,0
+108,Engineering,62.8,59.7,No,260,451.613569,Not Placed,124000
+109,Finance,82.8,78.7,No,260,454.071358,Placed,132500
+110,Art,78,74.1,No,260,456.529147,Not Placed,99000
+111,Business,82.4,78.3,No,260,458.986936,Placed,0
+112,Computer Science,76.2,72.4,No,260,461.444725,Placed,124000
+113,Engineering,62.5,59.4,No,260,463.902514,Not Placed,0
+114,Finance,66.5,63.2,No,260,466.360303,Placed,0
+115,Art,63.5,60.3,No,260,468.818092,Not Placed,0
+116,Business,79.2,75.2,Yes,260,471.275881,Placed,82000
+117,Computer Science,75,71.3,No,259,473.73367,Placed,0
+118,Engineering,74.4,70.7,No,259,476.191459,Not Placed,0
+119,Finance,67.9,64.5,No,259,478.649248,Placed,185000
+120,Art,76.8,73,No,259,481.107037,Not Placed,89500
+121,Business,83,78.9,No,259,483.564826,Placed,91500
+122,Computer Science,88.9,84.5,No,259,486.022615,Placed,0
+123,Engineering,76.5,72.7,No,259,488.480404,Not Placed,0
+124,Finance,79.9,75.9,No,259,490.938193,Placed,113500
+125,Art,70.4,66.9,No,259,493.395982,Not Placed,0
+126,Business,83.4,79.2,Yes,259,495.853771,Placed,0
+127,Computer Science,61.2,58.1,No,259,498.31156,Placed,0
+128,Engineering,64,60.8,No,259,500.769349,Not Placed,99000
+129,Finance,68,64.6,No,258,503.227138,Placed,0
+130,Art,78.5,74.6,No,258,505.684927,Not Placed,75500
+131,Business,75.2,71.4,No,258,508.142716,Placed,86000
+132,Computer Science,68.1,64.7,No,258,510.600505,Placed,0
+133,Engineering,93.6,88.9,No,258,513.058294,Not Placed,0
+134,Finance,75.6,71.8,No,258,515.516083,Placed,0
+135,Art,82.3,78.2,No,258,517.973872,Not Placed,156500
+136,Business,71.4,67.8,Yes,258,520.431661,Placed,99500
+137,Computer Science,71.9,68.3,No,258,522.88945,Placed,148000
+138,Engineering,79.1,75.1,No,258,525.347239,Not Placed,0
+139,Finance,88.7,84.3,No,258,527.805028,Placed,82000
+140,Art,69.4,65.9,No,258,530.262817,Not Placed,0
+141,Business,80.3,76.3,No,257,532.720606,Placed,103500
+142,Computer Science,74.1,70.4,No,257,535.178395,Placed,0
+143,Engineering,79.4,75.4,No,257,537.636184,Not Placed,205500
+144,Finance,88.1,83.7,No,257,540.093973,Placed,103500
+145,Art,74.6,70.9,No,257,542.551762,Not Placed,340000
+146,Business,87.1,82.7,Yes,257,545.009551,Placed,0
+147,Computer Science,79.7,75.7,No,257,547.46734,Placed,103500
+148,Engineering,82.1,78,No,257,549.925129,Not Placed,99500
+149,Finance,81.7,77.6,No,257,552.382918,Placed,103000
+150,Art,76.1,72.3,No,257,554.840707,Not Placed,103500
+151,Business,65.4,62.1,No,257,557.298496,Placed,165000
+152,Computer Science,70.1,66.6,No,256,559.756285,Placed,124500
+153,Engineering,75.3,71.5,No,256,562.214074,Not Placed,103500
+154,Finance,68.7,65.3,No,256,564.671863,Placed,82500
+155,Art,75.7,71.9,No,256,567.129652,Not Placed,93000
+156,Business,68.3,64.9,Yes,256,569.587441,Placed,0
+157,Computer Science,71.7,68.1,No,256,572.04523,Placed,168000
+158,Engineering,70.9,67.4,No,256,574.503019,Not Placed,96000
+159,Finance,66.3,63,No,256,576.960808,Placed,0
+160,Art,65.3,62,No,256,579.418597,Not Placed,0
+161,Business,66,62.7,No,256,581.876386,Placed,80000
+162,Computer Science,78.9,75,No,256,584.334175,Placed,0
+163,Engineering,74,70.3,No,256,586.791964,Not Placed,124500
+164,Finance,79.3,75.3,No,255,589.249753,Placed,0
+165,Art,88.8,84.4,No,255,591.707542,Not Placed,99000
+166,Business,82.9,78.8,Yes,255,594.165331,Placed,0
+167,Computer Science,100,95,No,255,596.62312,Placed,0
+168,Engineering,67.5,64.1,No,255,599.080909,Not Placed,0
+169,Finance,68.5,65.1,No,255,601.538698,Placed,124000
+170,Art,69.5,66,No,255,603.996487,Not Placed,0
+171,Business,70.5,67,No,255,606.454276,Placed,0
+172,Computer Science,71.5,67.9,No,255,608.912065,Placed,91500
+173,Engineering,72.5,68.9,No,255,611.369854,Not Placed,144500
+174,Finance,73.5,69.8,No,255,613.827643,Placed,0
+175,Art,74.5,70.8,No,255,616.285432,Not Placed,0
+176,Business,75.5,71.7,Yes,254,618.743221,Placed,114500
+177,Computer Science,76.5,72.7,No,254,621.20101,Placed,0
+178,Engineering,77.5,73.6,No,254,623.658799,Not Placed,104500
+179,Finance,78.5,74.6,No,254,626.116588,Placed,124000
+180,Art,79.5,75.5,No,254,628.574377,Not Placed,113000
+181,Business,80.5,76.5,No,254,631.032166,Placed,78000
+182,Computer Science,81.5,77.4,No,254,633.489955,Placed,0
+183,Engineering,82.5,78.4,No,254,635.947744,Not Placed,109000
+184,Finance,83.5,79.3,No,254,638.405533,Placed,0
+185,Art,84.5,80.3,No,254,640.863322,Not Placed,99500
+186,Business,85.5,81.2,Yes,254,643.321111,Placed,107000
+187,Computer Science,86.5,82.2,No,254,645.7789,Placed,0
+188,Engineering,87.5,83.1,No,253,648.236689,Not Placed,84000
+189,Finance,88.5,84.1,No,253,650.694478,Placed,163666.6667
+190,Art,89.5,85,No,253,653.152267,Not Placed,165000
+191,Business,10,9.5,No,253,655.610056,Placed,0
+192,Computer Science,15,14.3,No,253,658.067845,Placed,159666.6667
+193,Engineering,20,19,No,253,660.525634,Not Placed,0
+194,Finance,25.5,24.2,No,253,662.983423,Placed,0
+195,Art,30,28.5,No,253,665.441212,Not Placed,0
+196,Business,35,33.3,Yes,253,667.899001,Placed,162333.3333
+197,Computer Science,40,38,No,253,670.35679,Placed,214333.3333
+198,Engineering,45.5,43.2,No,253,672.814579,Not Placed,357666.6667
+199,Finance,50,47.5,No,252,675.272368,Placed,155000
+200,Art,55,52.3,No,252,677.730157,Not Placed,0
+201,Business,60.5,57.5,No,252,680.187946,Placed,169666.6667
+202,Computer Science,65,61.8,No,252,682.645735,Placed,0
+203,Engineering,70,66.5,No,252,685.103524,Not Placed,182333.3333
+204,Finance,75,71.3,No,252,687.561313,Placed,193666.6667
+205,Art,80,76,No,252,690.019102,Not Placed,149000
+206,Business,85,80.8,Yes,252,692.476891,Placed,0
+207,Computer Science,90,85.5,No,252,694.93468,Placed,182333.3333
+208,Engineering,95.8,91,No,252,697.392469,Not Placed,0
+209,Finance,13,12.4,No,252,102,Placed,0
+210,Art,26,24.7,No,252,105.3,Not Placed,0
+211,Business,39,37.1,No,251,108.6,Placed,126333.3333
+212,Computer Science,52.1,49.5,No,251,111.9,Placed,0
+213,Engineering,65,61.8,No,251,115.2,Not Placed,0
+214,Finance,78,74.1,No,251,118.5,Placed,263666.6667
+215,Art,91.4,86.8,No,251,121.8,Not Placed,136333.3333
+216,Business,26,24.7,Yes,251,125.1,Placed,139000
+217,Computer Science,27.5,26.1,No,251,128.4,Placed,0
+218,Engineering,29,27.6,No,251,131.7,Not Placed,0
+219,Finance,30.5,29,No,251,135,Placed,168333.3333
+220,Art,32,30.4,No,251,138.3,Not Placed,0
+221,Business,33.5,31.8,No,251,141.6,Placed,0
+222,Computer Science,35,33.3,No,251,144.9,Placed,0
+223,Engineering,36.5,34.7,No,250,148.2,Not Placed,149000
+224,Finance,38,36.1,No,250,151.5,Placed,0
+225,Art,39.5,37.5,No,250,154.8,Not Placed,117666.6667
+226,Business,41,39,Yes,250,158.1,Placed,131666.6667
+227,Computer Science,42.5,40.4,No,250,161.4,Placed,0
+228,Engineering,44,41.8,No,250,164.7,Not Placed,0
+229,Finance,45.5,43.2,No,250,168,Placed,0
+230,Art,47,44.7,No,250,171.3,Not Placed,225666.6667
+231,Business,48.5,46.1,No,250,174.6,Placed,149666.6667
+232,Computer Science,50,47.5,No,250,177.9,Placed,214333.3333
+233,Engineering,51.5,48.9,No,250,181.2,Not Placed,0
+234,Finance,53,50.4,No,249,184.5,Placed,126333.3333
+235,Art,54.5,51.8,No,249,187.8,Not Placed,0
+236,Business,56,53.2,Yes,249,191.1,Placed,155000
+237,Computer Science,57.5,54.6,No,249,194.4,Placed,0
+238,Engineering,59,56.1,No,249,197.7,Not Placed,291000
+239,Finance,60.5,57.5,No,249,201,Placed,155000
+240,Art,62,58.9,No,249,204.3,Not Placed,470333.3333
+241,Business,63.5,60.3,No,249,207.6,Placed,0
+242,Computer Science,65,61.8,No,249,210.9,Placed,155000
+243,Engineering,66.5,63.2,No,249,214.2,Not Placed,149666.6667
+244,Finance,68,64.6,No,249,217.5,Placed,154333.3333
+245,Art,69.5,66,No,249,220.8,Not Placed,155000
+246,Business,71,67.5,Yes,248,224.1,Placed,237000
+247,Computer Science,72.5,68.9,No,248,227.4,Placed,183000
+248,Engineering,74,70.3,No,248,230.7,Not Placed,155000
+249,Finance,75.5,71.7,No,248,234,Placed,127000
+250,Art,77,73.2,No,248,237.3,Not Placed,141000
+251,Business,78.5,74.6,No,248,240.6,Placed,0
+252,Computer Science,80,76,No,248,243.9,Placed,241000
+253,Engineering,81.5,77.4,No,248,247.2,Not Placed,145000
+254,Finance,83,78.9,No,248,250.5,Placed,0
+255,Art,84.5,80.3,No,248,253.8,Not Placed,0
+256,Business,86,81.7,Yes,248,257.1,Placed,123666.6667
+257,Computer Science,87.5,83.1,No,248,260.4,Placed,0
+258,Engineering,89,84.6,No,247,263.7,Not Placed,183000
+259,Finance,90.5,86,No,247,267,Placed,0
+260,Art,92,87.4,No,247,270.3,Not Placed,149000
+261,Business,93.5,88.8,No,247,273.6,Placed,0
+262,Computer Science,95,90.3,No,247,276.9,Placed,0
+263,Engineering,96.5,91.7,No,247,280.2,Not Placed,0
+264,Finance,98,93.1,No,247,283.5,Placed,182333.3333
+265,Art,99.5,94.5,No,247,286.8,Not Placed,0
+266,Business,11.1,10.5,Yes,247,290.1,Placed,0
+267,Computer Science,11.8,11.2,No,247,293.4,Placed,139000
+268,Engineering,12.5,11.9,No,247,296.7,Not Placed,209666.6667
+269,Finance,13.2,12.5,No,246,300,Placed,0
+270,Art,13.9,13.2,No,246,303.3,Not Placed,0
+271,Business,14.6,13.9,No,246,306.6,Placed,169666.6667
+272,Computer Science,15.3,14.5,No,246,309.9,Placed,0
+273,Engineering,16,15.2,No,246,313.2,Not Placed,156333.3333
+274,Finance,16.7,15.9,No,246,316.5,Placed,182333.3333
+275,Art,17.4,16.5,No,246,319.8,Not Placed,167666.6667
+276,Business,18.1,17.2,Yes,246,323.1,Placed,121000
+277,Computer Science,18.8,17.9,No,246,326.4,Placed,0
+278,Engineering,19.5,18.5,No,246,329.7,Not Placed,162333.3333
+279,Finance,20.2,19.2,No,246,333,Placed,0
+280,Art,20.9,19.9,No,246,336.3,Not Placed,149666.6667
+281,Business,21.6,20.5,No,245,339.6,Placed,159666.6667
+282,Computer Science,22.3,21.2,No,245,342.9,Placed,0
+283,Engineering,23,21.9,No,245,346.2,Not Placed,129000
+284,Finance,23.7,22.5,No,245,349.5,Placed,156333.3333
+285,Art,24.4,23.2,No,245,352.8,Not Placed,182333.3333
+286,Business,25.1,23.8,Yes,245,356.1,Placed,167666.6667
+287,Computer Science,25.8,24.5,No,245,359.4,Placed,121000
+288,Engineering,26.5,25.2,No,245,362.7,Not Placed,0
+289,Finance,27.2,25.8,No,245,366,Placed,162333.3333
+290,Art,27.9,26.5,No,245,369.3,Not Placed,0
+291,Business,28.6,27.2,No,245,372.6,Placed,149666.6667
+292,Computer Science,29.3,27.8,No,245,375.9,Placed,159666.6667
+293,Engineering,30,28.5,No,244,379.2,Not Placed,0
+294,Finance,30.7,29.2,No,244,382.5,Placed,129000
+295,Art,31.4,29.8,No,244,385.8,Not Placed,214333.3333
+296,Business,32.1,30.5,Yes,244,389.1,Placed,357666.6667
+297,Computer Science,32.8,31.2,No,244,392.4,Placed,155000
+298,Engineering,33.5,31.8,No,244,395.7,Not Placed,0
+299,Finance,34.2,32.5,No,244,399,Placed,169666.6667
+300,Art,34.9,33.2,No,244,402.3,Not Placed,0
+301,Business,35.6,33.8,No,244,405.6,Placed,182333.3333
+302,Computer Science,36.3,34.5,No,244,408.9,Placed,193666.6667
+303,Engineering,37,35.2,No,244,412.2,Not Placed,149000
+304,Finance,37.7,35.8,No,244,415.5,Placed,0
+305,Art,38.4,36.5,No,243,418.8,Not Placed,182333.3333
+306,Business,39.1,37.1,Yes,243,98,Placed,0
+307,Computer Science,39.8,37.8,No,243,99.1,Placed,0
+308,Engineering,40.5,38.5,No,243,100.2,Not Placed,0
+309,Finance,41.2,39.1,No,243,101.3,Placed,126333.3333
+310,Art,41.9,39.8,No,243,102.4,Not Placed,0
+311,Business,42.6,40.5,No,243,103.5,Placed,0
+312,Computer Science,43.3,41.1,No,243,104.6,Placed,263666.6667
+313,Engineering,44,41.8,No,243,105.7,Not Placed,136333.3333
+314,Finance,44.7,42.5,No,243,106.8,Placed,139000
+315,Art,45.4,43.1,No,243,107.9,Not Placed,0
+316,Business,46.1,43.8,Yes,242,109,Placed,0
+317,Computer Science,46.8,44.5,No,242,110.1,Placed,168333.3333
+318,Engineering,47.5,45.1,No,242,111.2,Not Placed,0
+319,Finance,48.2,45.8,No,242,112.3,Placed,0
+320,Art,48.9,46.5,No,242,113.4,Not Placed,0
+321,Business,49.6,47.1,No,242,114.5,Placed,149000
+322,Computer Science,50.3,47.8,No,242,115.6,Placed,0
+323,Engineering,51,48.5,No,242,116.7,Not Placed,117666.6667
+324,Finance,51.7,49.1,No,242,117.8,Placed,131666.6667
+325,Art,52.4,49.8,No,242,118.9,Not Placed,0
+326,Business,53.1,50.4,Yes,242,120,Placed,0
+327,Computer Science,53.8,51.1,No,242,121.1,Placed,0
+328,Engineering,54.5,51.8,No,241,122.2,Not Placed,225666.6667
+329,Finance,55.2,52.4,No,241,123.3,Placed,149666.6667
+330,Art,55.9,53.1,No,241,124.4,Not Placed,214333.3333
+331,Business,56.6,53.8,No,241,125.5,Placed,0
+332,Computer Science,57.3,54.4,No,241,126.6,Placed,126333.3333
+333,Engineering,58,55.1,No,241,127.7,Not Placed,0
+334,Finance,58.7,55.8,No,241,128.8,Placed,155000
+335,Art,59.4,56.4,No,241,129.9,Not Placed,0
+336,Business,60.1,57.1,Yes,241,131,Placed,291000
+337,Computer Science,60.8,57.8,No,241,132.1,Placed,155000
+338,Engineering,61.5,58.4,No,241,133.2,Not Placed,470333.3333
+339,Finance,62.2,59.1,No,241,134.3,Placed,0
+340,Art,62.9,59.8,No,240,135.4,Not Placed,155000
+341,Business,63.6,60.4,No,240,136.5,Placed,149666.6667
+342,Computer Science,64.3,61.1,No,240,137.6,Placed,154333.3333
+343,Engineering,65,61.8,No,240,138.7,Not Placed,155000
+344,Finance,65.7,62.4,No,240,139.8,Placed,237000
+345,Art,66.4,63.1,No,240,140.9,Not Placed,183000
+346,Business,67.1,63.7,Yes,240,142,Placed,155000
+347,Computer Science,67.8,64.4,No,240,143.1,Placed,127000
+348,Engineering,68.5,65.1,No,240,144.2,Not Placed,141000
+349,Finance,69.2,65.7,No,240,145.3,Placed,0
+350,Art,69.9,66.4,No,240,146.4,Not Placed,241000
+351,Business,70.6,67.1,No,239,147.5,Placed,145000
+352,Computer Science,71.3,67.7,No,239,148.6,Placed,0
+353,Engineering,72,68.4,No,239,149.7,Not Placed,0
+354,Finance,72.7,69.1,No,239,150.8,Placed,123666.6667
+355,Art,73.4,69.7,No,239,151.9,Not Placed,0
+356,Business,74.1,70.4,Yes,239,153,Placed,183000
+357,Computer Science,74.8,71.1,No,239,154.1,Placed,0
+358,Engineering,75.5,71.7,No,239,155.2,Not Placed,149000
+359,Finance,76.2,72.4,No,239,156.3,Placed,0
+360,Art,76.9,73.1,No,239,157.4,Not Placed,0
+361,Business,77.6,73.7,No,239,158.5,Placed,0
+362,Computer Science,78.3,74.4,No,239,159.6,Placed,182333.3333
+363,Engineering,79,75.1,No,238,160.7,Not Placed,0
+364,Finance,79.7,75.7,No,238,161.8,Placed,0
+365,Art,80.4,76.4,No,238,162.9,Not Placed,139000
+366,Business,81.1,77,Yes,238,164,Placed,209666.6667
+367,Computer Science,81.8,77.7,No,238,165.1,Placed,0
+368,Engineering,82.5,78.4,No,238,166.2,Not Placed,0
+369,Finance,83.2,79,No,238,167.3,Placed,169666.6667
+370,Art,83.9,79.7,No,238,168.4,Not Placed,0
+371,Business,84.6,80.4,No,238,169.5,Placed,156333.3333
+372,Computer Science,85.3,81,No,238,170.6,Placed,182333.3333
+373,Engineering,86,81.7,No,238,171.7,Not Placed,167666.6667
+374,Finance,86.7,82.4,No,238,172.8,Placed,121000
+375,Art,87.4,83,No,237,173.9,Not Placed,0
+376,Business,88.1,83.7,Yes,237,175,Placed,162333.3333
+377,Computer Science,88.8,84.4,No,237,176.1,Placed,0
+378,Engineering,89.5,85,No,237,177.2,Not Placed,149666.6667
+379,Finance,40,38,No,237,178.3,Placed,159666.6667
+380,Art,41.3,39.2,No,237,179.4,Not Placed,0
+381,Business,42.6,40.5,No,237,180.5,Placed,129000
+382,Computer Science,43.9,41.7,No,237,181.6,Placed,156333.3333
+383,Engineering,45.2,42.9,No,237,182.7,Not Placed,182333.3333
+384,Finance,46.5,44.2,No,237,183.8,Placed,167666.6667
+385,Art,47.8,45.4,No,237,184.9,Not Placed,121000
+386,Business,49.1,46.6,Yes,237,186,Placed,0
+387,Computer Science,50.4,47.9,No,236,187.1,Placed,162333.3333
+388,Engineering,51.7,49.1,No,236,188.2,Not Placed,0
+389,Finance,53,50.4,No,236,189.3,Placed,149666.6667
+390,Art,54.3,51.6,No,236,190.4,Not Placed,159666.6667
+391,Business,55.6,52.8,No,236,191.5,Placed,0
+392,Computer Science,56.9,54.1,No,236,192.6,Placed,129000
+393,Engineering,58.2,55.3,No,236,193.7,Not Placed,0
+394,Finance,59.5,56.5,No,236,194.8,Placed,214333.3333
+395,Art,60.8,57.8,No,236,195.9,Not Placed,357666.6667
+396,Business,62.1,59,Yes,236,197,Placed,155000
+397,Computer Science,63.4,60.2,No,236,198.1,Placed,0
+398,Engineering,64.7,61.5,No,235,199.2,Not Placed,169666.6667
+399,Finance,66,62.7,No,235,200.3,Placed,0
+400,Art,67.3,63.9,No,235,201.4,Not Placed,182333.3333
+401,Business,68.6,65.2,No,235,202.5,Placed,193666.6667
+402,Computer Science,69.9,66.4,No,235,203.6,Placed,149000
+403,Engineering,71.2,67.6,No,235,204.7,Not Placed,0
+404,Finance,72.5,68.9,No,235,205.8,Placed,182333.3333
+405,Art,73.8,70.1,No,235,206.9,Not Placed,0
+406,Business,75.1,71.3,Yes,235,208,Placed,0
+407,Computer Science,76.4,72.6,No,235,209.1,Placed,0
+408,Engineering,77.7,73.8,No,235,210.2,Not Placed,126333.3333
+409,Finance,79,75,No,235,211.3,Placed,0
+410,Art,80.3,76.3,No,234,212.4,Not Placed,0
+411,Business,81.6,77.5,No,234,213.5,Placed,263666.6667
+412,Computer Science,82.9,78.8,No,234,214.6,Placed,136333.3333
+413,Engineering,84.2,80,No,234,215.7,Not Placed,139000
+414,Finance,85.5,81.2,No,234,216.8,Placed,0
+415,Art,86.8,82.5,No,234,217.9,Not Placed,0
+416,Business,88.1,83.7,Yes,234,219,Placed,168333.3333
+417,Computer Science,89.4,84.9,No,234,220.1,Placed,0
+418,Engineering,90.7,86.2,No,234,221.2,Not Placed,0
+419,Finance,92,87.4,No,234,222.3,Placed,0
+420,Art,93.3,88.6,No,234,223.4,Not Placed,149000
+421,Business,94.6,89.9,No,234,224.5,Placed,0
+422,Computer Science,95.9,91.1,No,233,225.6,Placed,117666.6667
+423,Engineering,97.2,92.3,No,233,226.7,Not Placed,131666.6667
+424,Finance,98.5,93.6,No,233,227.8,Placed,0
+425,Art,99.8,94.8,No,233,228.9,Not Placed,0
+426,Business,0,0,Yes,233,230,Placed,0
+427,Computer Science,0,0,No,233,231.1,Placed,225666.6667
+428,Engineering,0,0,No,233,232.2,Not Placed,149666.6667
+429,Finance,14.5,13.8,No,233,233.3,Placed,214333.3333
+430,Art,14.8,14.1,No,233,234.4,Not Placed,0
+431,Business,15.1,14.3,No,233,235.5,Placed,126333.3333
+432,Computer Science,15.4,14.6,No,233,236.6,Placed,0
+433,Engineering,15.7,14.9,No,232,237.7,Not Placed,155000
+434,Finance,16,15.2,No,232,238.8,Placed,0
+435,Art,16.3,15.5,No,232,239.9,Not Placed,291000
+436,Business,16.6,15.8,Yes,232,241,Placed,155000
+437,Computer Science,16.9,16.1,No,232,242.1,Placed,470333.3333
+438,Engineering,17.2,16.3,No,232,243.2,Not Placed,0
+439,Finance,17.5,16.6,No,232,244.3,Placed,155000
+440,Art,17.8,16.9,No,232,245.4,Not Placed,149666.6667
+441,Business,18.1,17.2,No,232,246.5,Placed,154333.3333
+442,Computer Science,18.4,17.5,No,232,247.6,Placed,155000
+443,Engineering,18.7,17.8,No,232,248.7,Not Placed,237000
+444,Finance,19,18.1,No,232,249.8,Placed,183000
+445,Art,19.3,18.3,No,231,250.9,Not Placed,155000
+446,Business,19.6,18.6,Yes,231,252,Placed,127000
+447,Computer Science,19.9,18.9,No,231,253.1,Placed,141000
+448,Engineering,20.2,19.2,No,231,254.2,Not Placed,0
+449,Finance,20.5,19.5,No,231,255.3,Placed,241000
+450,Art,20.8,19.8,No,231,256.4,Not Placed,145000
+451,Business,21.1,20,No,231,257.5,Placed,0
+452,Computer Science,21.4,20.3,No,231,258.6,Placed,0
+453,Engineering,21.7,20.6,No,231,259.7,Not Placed,123666.6667
+454,Finance,22,20.9,No,231,260.8,Placed,0
+455,Art,22.3,21.2,No,231,261.9,Not Placed,183000
+456,Business,22.6,21.5,Yes,231,263,Placed,0
+457,Computer Science,22.9,21.8,No,230,264.1,Placed,149000
+458,Engineering,23.2,22,No,230,265.2,Not Placed,0
+459,Finance,23.5,22.3,No,230,266.3,Placed,0
+460,Art,23.8,22.6,No,230,267.4,Not Placed,0
+461,Business,24.1,22.9,No,230,268.5,Placed,182333.3333
+462,Computer Science,24.4,23.2,No,230,269.6,Placed,0
+463,Engineering,24.7,23.5,No,230,270.7,Not Placed,0
+464,Finance,25,23.8,No,230,271.8,Placed,139000
+465,Art,25.3,24,No,230,272.9,Not Placed,209666.6667
+466,Business,25.6,24.3,Yes,230,274,Placed,0
+467,Computer Science,25.9,24.6,No,230,275.1,Placed,0
+468,Engineering,26.2,24.9,No,230,276.2,Not Placed,169666.6667
+469,Finance,26.5,25.2,No,229,277.3,Placed,0
+470,Art,26.8,25.5,No,229,278.4,Not Placed,156333.3333
+471,Business,27.1,25.7,No,229,279.5,Placed,182333.3333
+472,Computer Science,27.4,26,No,229,280.6,Placed,167666.6667
+473,Engineering,27.7,26.3,No,229,281.7,Not Placed,121000
+474,Finance,28,26.6,No,229,282.8,Placed,0
+475,Art,28.3,26.9,No,229,283.9,Not Placed,162333.3333
+476,Business,28.6,27.2,Yes,229,285,Placed,0
+477,Computer Science,28.9,27.5,No,229,286.1,Placed,149666.6667
+478,Engineering,29.2,27.7,No,229,287.2,Not Placed,159666.6667
+479,Finance,29.5,28,No,229,288.3,Placed,0
+480,Art,29.8,28.3,No,228,289.4,Not Placed,129000
+481,Business,30.1,28.6,No,228,290.5,Placed,156333.3333
+482,Computer Science,30.4,28.9,No,228,291.6,Placed,182333.3333
+483,Engineering,30.7,29.2,No,228,292.7,Not Placed,167666.6667
+484,Finance,31,29.5,No,228,293.8,Placed,121000
+485,Art,31.3,29.7,No,228,294.9,Not Placed,0
+486,Business,31.6,30,Yes,228,296,Placed,162333.3333
+487,Computer Science,31.9,30.3,No,228,297.1,Placed,0
+488,Engineering,32.2,30.6,No,228,298.2,Not Placed,149666.6667
+489,Finance,32.5,30.9,No,228,299.3,Placed,159666.6667
+490,Art,32.8,31.2,No,228,300.4,Not Placed,0
+491,Business,33.1,31.4,No,228,301.5,Placed,129000
+492,Computer Science,33.4,31.7,No,227,302.6,Placed,165000
+493,Engineering,33.7,32,No,227,303.7,Not Placed,0
+494,Finance,34,32.3,No,227,304.8,Placed,159666.6667
+495,Art,34.3,32.6,No,227,305.9,Not Placed,0
+496,Business,34.6,32.9,Yes,227,307,Placed,0
+497,Computer Science,34.9,33.2,No,227,308.1,Placed,0
+498,Engineering,35.2,33.4,No,227,309.2,Not Placed,162333.3333
+499,Finance,35.5,33.7,No,227,310.3,Placed,214333.3333
+500,Art,35.8,34,No,227,311.4,Not Placed,357666.6667
+501,Business,36.1,34.3,No,227,312.5,Placed,155000
+502,Computer Science,36.4,34.6,No,227,313.6,Placed,0
+503,Engineering,36.7,34.9,No,227,314.7,Not Placed,169666.6667
+504,Finance,37,35.2,No,226,315.8,Placed,0
+505,Art,37.3,35.4,No,226,316.9,Not Placed,182333.3333
+506,Business,37.6,35.7,Yes,226,318,Placed,193666.6667
+507,Computer Science,37.9,36,No,226,319.1,Placed,149000
+508,Engineering,38.2,36.3,No,226,320.2,Not Placed,0
+509,Finance,38.5,36.6,No,226,321.3,Placed,182333.3333
+510,Art,38.8,36.9,No,226,322.4,Not Placed,0
+511,Business,39.1,37.1,No,226,323.5,Placed,0
+512,Computer Science,39.4,37.4,No,226,324.6,Placed,0
+513,Engineering,39.7,37.7,No,226,325.7,Not Placed,126333.3333
+514,Finance,40,38,No,226,326.8,Placed,0
+515,Art,40.3,38.3,No,225,327.9,Not Placed,0
+516,Business,40.6,38.6,Yes,225,329,Placed,263666.6667
+517,Computer Science,40.9,38.9,No,225,330.1,Placed,136333.3333
+518,Engineering,41.2,39.1,No,225,331.2,Not Placed,139000
+519,Finance,41.5,39.4,No,225,332.3,Placed,0
+520,Art,41.8,39.7,No,225,333.4,Not Placed,0
+521,Business,42.1,40,No,225,334.5,Placed,168333.3333
+522,Computer Science,42.4,40.3,No,225,335.6,Placed,0
+523,Engineering,42.7,40.6,No,225,336.7,Not Placed,0
+524,Finance,43,40.9,No,225,337.8,Placed,0
+525,Art,43.3,41.1,No,225,338.9,Not Placed,149000
+526,Business,43.6,41.4,Yes,225,340,Placed,0
+527,Computer Science,43.9,41.7,No,224,341.1,Placed,117666.6667
+528,Engineering,44.2,42,No,224,342.2,Not Placed,131666.6667
+529,Finance,44.5,42.3,No,224,343.3,Placed,0
+530,Art,44.8,42.6,No,224,344.4,Not Placed,0
+531,Business,45.1,42.8,No,224,345.5,Placed,0
+532,Computer Science,45.4,43.1,No,224,346.6,Placed,225666.6667
+533,Engineering,45.7,43.4,No,224,347.7,Not Placed,149666.6667
+534,Finance,46,43.7,No,224,224,Placed,214333.3333
+535,Art,46.3,44,No,224,224,Not Placed,0
+536,Business,46.6,44.3,Yes,224,224,Placed,126333.3333
+537,Computer Science,46.9,44.6,No,224,224,Placed,0
+538,Engineering,47.2,44.8,No,224,224,Not Placed,155000
+539,Finance,47.5,45.1,No,223,224,Placed,0
+540,Art,47.8,45.4,No,223,224,Not Placed,291000
+541,Business,48.1,45.7,No,223,224,Placed,155000
+542,Computer Science,48.4,46,No,223,224,Placed,470333.3333
+543,Engineering,48.7,46.3,No,223,224,Not Placed,0
+544,Finance,49,46.6,No,223,224,Placed,155000
+545,Art,49.3,46.8,No,223,224,Not Placed,149666.6667
+546,Business,49.6,47.1,Yes,223,223,Placed,154333.3333
+547,Computer Science,49.9,47.4,No,223,223,Placed,155000
+548,Engineering,50.2,47.7,No,223,223,Not Placed,237000
+549,Finance,50.5,48,No,223,223,Placed,183000
+550,Art,50.8,48.3,No,222,223,Not Placed,155000
+551,Business,51.1,48.5,No,222,223,Placed,127000
+552,Computer Science,51.4,48.8,No,222,223,Placed,141000
+553,Engineering,51.7,49.1,No,222,223,Not Placed,0
+554,Finance,52,49.4,No,222,252,Placed,241000
+555,Art,52.3,49.7,No,222,423,Not Placed,145000
+556,Business,52.6,50,Yes,222,101,Placed,0
+557,Computer Science,52.9,50.3,No,222,288,Placed,0
+558,Engineering,53.2,50.5,No,222,248,Not Placed,123666.6667
+559,Finance,53.5,50.8,No,222,145,Placed,0
+560,Art,53.8,51.1,No,222,401,Not Placed,183000
+561,Business,54.1,51.4,No,222,287,Placed,0
+562,Computer Science,54.4,51.7,No,221,275,Placed,149000
+563,Engineering,54.7,52,No,221,254,Not Placed,0
+564,Finance,55,52.3,No,221,182,Placed,0
+565,Art,55.3,52.5,No,221,117,Not Placed,0
+566,Business,55.6,52.8,Yes,221,130,Placed,182333.3333
+567,Computer Science,55.9,53.1,No,221,219,Placed,0
+568,Engineering,56.2,53.4,No,221,152,Not Placed,0
+569,Finance,56.5,53.7,No,221,228,Placed,139000
+570,Art,56.8,54,No,221,62,Not Placed,209666.6667
+571,Business,57.1,54.2,No,221,393,Placed,0
+572,Computer Science,57.4,54.5,No,221,277,Placed,0
+573,Engineering,57.7,54.8,No,221,206,Not Placed,169666.6667
+574,Finance,58,55.1,No,220,229,Placed,0
+575,Art,58.3,55.4,No,220,182,Not Placed,156333.3333
+576,Business,58.6,55.7,Yes,220,98,Placed,182333.3333
+577,Computer Science,58.9,56,No,220,125,Placed,167666.6667
+578,Engineering,59.2,56.2,No,220,164,Not Placed,121000
+579,Finance,59.5,56.5,No,220,186,Placed,0
+580,Art,59.8,56.8,No,220,235,Not Placed,162333.3333
+581,Business,60.1,57.1,No,220,184,Placed,0
+582,Computer Science,60.4,57.4,No,220,76,Placed,149666.6667
+583,Engineering,60.7,57.7,No,220,126,Not Placed,159666.6667
+584,Finance,61,58,No,220,183,Placed,0
+585,Art,61.3,58.2,No,220,242,Not Placed,129000
+586,Business,61.6,58.5,Yes,219,207,Placed,111000
+587,Computer Science,61.9,58.8,No,219,181,Placed,0
+588,Engineering,62.2,59.1,No,219,239,Not Placed,107000
+589,Finance,62.5,59.4,No,219,216,Placed,0
+590,Art,62.8,59.7,No,219,289,Not Placed,0
+591,Business,63.1,59.9,No,219,213,Placed,0
+592,Computer Science,63.4,60.2,No,219,209,Placed,109000
+593,Engineering,0,0,No,219,376,Not Placed,148000
+594,Finance,0,0,No,219,332,Placed,255500
+595,Art,29,27.6,No,219,249,Not Placed,103500
+596,Business,0,0,Yes,219,228,Placed,0
+597,Computer Science,75,71.3,No,218,124,Placed,114500
+598,Engineering,89,84.6,No,218,194,Not Placed,0
+599,Finance,45.8,43.5,No,218,157,Placed,124000
+600,Art,0,0,No,218,402,Not Placed,132500
+601,Business,0,0,No,218,323,Placed,99000
+602,Computer Science,67,63.7,No,218,181,Placed,0
+603,Engineering,0,0,No,218,157,Not Placed,124000
+604,Finance,0,0,No,218,266,Placed,0
+605,Art,0,0,No,218,268,Not Placed,0
+606,Business,0,0,Yes,218,167,Placed,0
+607,Computer Science,0,0,No,218,342,Placed,82000
+608,Engineering,56,53.2,No,218,349,Not Placed,0
+609,Finance,0,0,No,217,340,Placed,0
+610,Art,0,0,No,217,227,Not Placed,185000
+611,Business,0,0,No,217,409,Placed,89500
+612,Computer Science,33,31.4,No,217,400,Placed,91500
+613,Engineering,33.92,32.2,No,217,374,Not Placed,0
+614,Finance,34.84,33.1,No,217,255,Placed,0
+615,Art,35.76,34,No,217,146,Not Placed,113500
+616,Business,36.68,34.8,Yes,217,248,Placed,0
+617,Computer Science,37.6,35.7,No,217,198,Placed,0
+618,Engineering,38.52,36.6,No,217,210,Not Placed,0
+619,Finance,39.44,37.5,No,217,107,Placed,99000
+620,Art,40.36,38.3,No,217,239,Not Placed,0
+621,Business,41.28,39.2,No,216,287,Placed,75500
+622,Computer Science,42.2,40.1,No,216,340,Placed,86000
+623,Engineering,43.12,41,No,216,155,Not Placed,0
+624,Finance,44.04,41.8,No,216,263,Placed,0
+625,Art,44.96,42.7,No,216,265,Not Placed,0
+626,Business,45.88,43.6,Yes,216,249,Placed,156500
+627,Computer Science,46.8,44.5,No,216,377,Placed,99500
+628,Engineering,47.72,45.3,No,216,301,Not Placed,148000
+629,Finance,48.64,46.2,No,216,242,Placed,0
+630,Art,49.56,47.1,No,216,211,Not Placed,82000
+631,Business,50.48,48,No,216,160,Placed,0
+632,Computer Science,51.4,48.8,No,215,218,Placed,103500
+633,Engineering,52.32,49.7,No,215,133,Not Placed,0
+634,Finance,53.24,50.6,No,215,122,Placed,205500
+635,Art,54.16,51.5,No,215,236,Not Placed,103500
+636,Business,55.08,52.3,Yes,215,143,Placed,340000
+637,Computer Science,56,53.2,No,215,354,Placed,0
+638,Engineering,56.92,54.1,No,215,214,Not Placed,103500
+639,Finance,57.84,54.9,No,215,225,Placed,99500
+640,Art,58.76,55.8,No,215,261,Not Placed,103000
+641,Business,59.68,56.7,No,215,277,Placed,103500
+642,Computer Science,60.6,57.6,No,215,282,Placed,165000
+643,Engineering,61.52,58.4,No,215,322,Not Placed,124500
+644,Finance,62.44,59.3,No,214,326,Placed,103500
+645,Art,63.36,60.2,No,214,421,Not Placed,82500
+646,Business,64.28,61.1,Yes,214,368,Placed,93000
+647,Computer Science,65.2,61.9,No,214,279,Placed,0
+648,Engineering,66.12,62.8,No,214,268,Not Placed,168000
+649,Finance,67.04,63.7,No,214,276,Placed,96000
+650,Art,67.96,64.6,No,214,410,Not Placed,0
+651,Business,68.88,65.4,No,214,119,Placed,0
+652,Computer Science,69.8,66.3,No,214,334,Placed,80000
+653,Engineering,70.72,67.2,No,214,252,Not Placed,0
+654,Finance,71.64,68.1,No,214,209,Placed,124500
+655,Art,72.56,68.9,No,214,462,Not Placed,0
+656,Business,73.48,69.8,Yes,213,342,Placed,99000
+657,Computer Science,74.4,70.7,No,213,347,Placed,0
+658,Engineering,75.32,71.6,No,213,313,Not Placed,0
+659,Finance,76.24,72.4,No,213,232,Placed,0
+660,Art,77.16,73.3,No,213,163,Not Placed,124000
+661,Business,78.08,74.2,No,213,119,Placed,0
+662,Computer Science,79,75.1,No,213,304,Placed,0
+663,Engineering,79.92,75.9,No,213,211,Not Placed,91500
+664,Finance,80.84,76.8,No,213,286,Placed,144500
+665,Art,81.76,77.7,No,213,122,Not Placed,0
+666,Business,82.68,78.5,Yes,213,443,Placed,0
+667,Computer Science,83.6,79.4,No,213,366,Placed,114500
+668,Engineering,84.52,80.3,No,212,244,Not Placed,0
+669,Finance,85.44,81.2,No,212,241,Placed,104500
+670,Art,86.36,82,No,212,237,Not Placed,124000
+671,Business,87.28,82.9,No,212,122,Placed,113000
+672,Computer Science,88.2,83.8,No,212,129,Placed,78000
+673,Engineering,89.12,84.7,No,212,236,Not Placed,0
+674,Finance,90.04,85.5,No,212,251,Placed,109000
+675,Art,90.96,86.4,No,212,283,Not Placed,0
+676,Business,91.88,87.3,Yes,212,225,Placed,99500
+677,Computer Science,92.8,88.2,No,212,102,Placed,107000
+678,Engineering,93.72,89,No,212,180,Not Placed,0
+679,Finance,94.64,89.9,No,211,247,Placed,84000
+680,Art,95.56,90.8,No,211,343,Not Placed,0
+681,Business,96.48,91.7,No,211,283,Placed,0
+682,Computer Science,97.4,92.5,No,211,253,Placed,111000
+683,Engineering,98.32,93.4,No,211,263,Not Placed,0
+684,Finance,99.24,94.3,No,211,291,Placed,107000
+685,Art,98.7,93.8,No,211,368,Not Placed,0
+686,Business,99.6,94.6,Yes,211,206,Placed,0
+687,Computer Science,0,0,No,211,231,Placed,0
+688,Engineering,0,0,No,211,389,Not Placed,109000
+689,Finance,0,0,No,211,396,Placed,148000
+690,Art,0,0,No,211,339,Not Placed,255500
+691,Business,0,0,No,210,286,Placed,103500
+692,Computer Science,0,0,No,210,146,Placed,0
+693,Engineering,0,0,No,210,315,Not Placed,114500
+694,Finance,0,0,No,210,183,Placed,0
+695,Art,13.7,13,No,210,481,Not Placed,124000
+696,Business,14.1,13.4,Yes,210,349,Placed,132500
+697,Computer Science,14.5,13.8,No,210,225,Placed,99000
+698,Engineering,14.9,14.2,No,210,217,Not Placed,0
+699,Finance,15.3,14.5,No,210,353,Placed,124000
+700,Art,15.7,14.9,No,210,314,Not Placed,0
+701,Business,16.1,15.3,No,210,247,Placed,0
+702,Computer Science,16.5,15.7,No,210,410,Placed,0
+703,Engineering,16.9,16.1,No,209,395,Not Placed,82000
+704,Finance,17.3,16.4,No,209,416,Placed,0
+705,Art,17.7,16.8,No,209,342,Not Placed,0
+706,Business,18.1,17.2,Yes,209,446,Placed,185000
+707,Computer Science,18.5,17.6,No,209,477,Placed,89500
+708,Engineering,18.9,18,No,209,444,Not Placed,91500
+709,Finance,19.3,18.3,No,209,351,Placed,0
+710,Art,19.7,18.7,No,209,165,Not Placed,0
+711,Business,20.1,19.1,No,209,317,Placed,113500
+712,Computer Science,20.5,19.5,No,209,250,Placed,0
+713,Engineering,20.9,19.9,No,209,217,Not Placed,0
+714,Finance,21.3,20.2,No,208,138,Placed,0
+715,Art,21.7,20.6,No,208,302,Not Placed,99000
+716,Business,22.1,21,Yes,208,311,Placed,0
+717,Computer Science,22.5,21.4,No,208,373,Placed,75500
+718,Engineering,22.9,21.8,No,208,196,Not Placed,86000
+719,Finance,23.3,22.1,No,208,306,Placed,0
+720,Art,23.7,22.5,No,208,302,Not Placed,0
+721,Business,24.1,22.9,No,208,278,Placed,0
+722,Computer Science,24.5,23.3,No,208,429,Placed,156500
+723,Engineering,24.9,23.7,No,208,338,Not Placed,99500
+724,Finance,25.3,24,No,208,261,Placed,148000
+725,Art,25.7,24.4,No,208,256,Not Placed,0
+726,Business,26.1,24.8,Yes,207,183,Placed,82000
+727,Computer Science,26.5,25.2,No,207,274,Placed,0
+728,Engineering,26.9,25.6,No,207,182,Not Placed,103500
+729,Finance,27.3,25.9,No,207,183,Placed,0
+730,Art,27.7,26.3,No,207,309,Not Placed,205500
+731,Business,28.1,26.7,No,207,178,Placed,103500
+732,Computer Science,28.5,27.1,No,207,458,Placed,340000
+733,Engineering,28.9,27.5,No,207,234,Not Placed,0
+734,Finance,29.3,27.8,No,207,306,Placed,103500
+735,Art,29.7,28.2,No,207,400,Not Placed,99500
+736,Business,30.1,28.6,Yes,207,402.457789,Placed,103000
+737,Computer Science,30.5,29,No,207,404.915578,Placed,103500
+738,Engineering,30.9,29.4,No,206,407.373367,Not Placed,165000
+739,Finance,31.3,29.7,No,206,409.831156,Placed,124500
+740,Art,31.7,30.1,No,206,412.288945,Not Placed,103500
+741,Business,32.1,30.5,No,206,414.746734,Placed,82500
+742,Computer Science,32.5,30.9,No,206,417.204523,Placed,93000
+743,Engineering,32.9,31.3,No,206,419.662312,Not Placed,0
+744,Finance,33.3,31.6,No,206,422.120101,Placed,168000
+745,Art,33.7,32,No,206,424.57789,Not Placed,96000
+746,Business,34.1,32.4,Yes,206,427.035679,Placed,0
+747,Computer Science,34.5,32.8,No,206,429.493468,Placed,0
+748,Engineering,34.9,33.2,No,206,431.951257,Not Placed,80000
+749,Finance,35.3,33.5,No,206,434.409046,Placed,0
+750,Art,35.7,33.9,No,205,436.866835,Not Placed,124500
+751,Business,36.1,34.3,No,205,209,Placed,0
+752,Computer Science,36.5,34.7,No,205,208,Placed,99000
+753,Engineering,36.9,35.1,No,205,208,Not Placed,0
+754,Finance,37.3,35.4,No,205,208,Placed,0
+755,Art,37.7,35.8,No,205,208,Not Placed,0
+756,Business,38.1,36.2,Yes,205,208,Placed,124000
+757,Computer Science,38.5,36.6,No,205,208,Placed,0
+758,Engineering,38.9,37,No,205,208,Not Placed,0
+759,Finance,39.3,37.3,No,205,208,Placed,91500
+760,Art,39.7,37.7,No,205,208,Not Placed,144500
+761,Business,40.1,38.1,No,204,208,Placed,0
+762,Computer Science,40.5,38.5,No,204,208,Placed,0
+763,Engineering,40.9,38.9,No,204,208,Not Placed,114500
+764,Finance,41.3,39.2,No,204,207,Placed,0
+765,Art,41.7,39.6,No,204,207,Not Placed,104500
+766,Business,42.1,40,Yes,204,207,Placed,124000
+767,Computer Science,42.5,40.4,No,204,207,Placed,113000
+768,Engineering,42.9,40.8,No,204,207,Not Placed,78000
+769,Finance,43.3,41.1,No,204,207,Placed,0
+770,Art,43.7,41.5,No,204,207,Not Placed,109000
+771,Business,44.1,41.9,No,204,275,Placed,0
+772,Computer Science,44.5,42.3,No,204,254,Placed,99500
+773,Engineering,44.9,42.7,No,203,182,Not Placed,107000
+774,Finance,45.3,43,No,203,117,Placed,0
+775,Art,45.7,43.4,No,203,130,Not Placed,84000
+776,Business,46.1,43.8,Yes,203,219,Placed,0
+777,Computer Science,46.5,44.2,No,203,152,Placed,111000
+778,Engineering,46.9,44.6,No,203,228,Not Placed,0
+779,Finance,47.3,44.9,No,203,62,Placed,107000
+780,Art,47.7,45.3,No,203,393,Not Placed,0
+781,Business,48.1,45.7,No,203,277,Placed,0
+782,Computer Science,48.5,46.1,No,203,206,Placed,0
+783,Engineering,48.9,46.5,No,203,229,Not Placed,109000
+784,Finance,49.3,46.8,No,203,182,Placed,148000
+785,Art,49.7,47.2,No,202,98,Not Placed,255500
+786,Business,50.1,47.6,Yes,202,125,Placed,103500
+787,Computer Science,50.5,48,No,202,164,Placed,0
+788,Engineering,50.9,48.4,No,202,186,Not Placed,114500
+789,Finance,51.3,48.7,No,202,235,Placed,0
+790,Art,51.7,49.1,No,202,184,Not Placed,124000
+791,Business,52.1,49.5,No,202,76,Placed,132500
+792,Computer Science,52.5,49.9,No,202,126,Placed,99000
+793,Engineering,52.9,50.3,No,202,183,Not Placed,0
+794,Finance,53.3,50.6,No,202,242,Placed,124000
+795,Art,53.7,51,No,202,207,Not Placed,0
+796,Business,54.1,51.4,Yes,201,181,Placed,0
+797,Computer Science,54.5,51.8,No,201,239,Placed,0
+798,Engineering,54.9,52.2,No,201,216,Not Placed,82000
+799,Finance,55.3,52.5,No,201,289,Placed,0
+800,Art,55.7,52.9,No,201,213,Not Placed,0
+801,Business,56.1,53.3,No,201,209,Placed,185000
+802,Computer Science,56.5,53.7,No,201,376,Placed,89500
+803,Engineering,56.9,54.1,No,201,332,Not Placed,91500
+804,Finance,57.3,54.4,No,201,249,Placed,0
+805,Art,57.7,54.8,No,201,228,Not Placed,0
+806,Business,58.1,55.2,Yes,201,124,Placed,113500
+807,Computer Science,58.5,55.6,No,201,194,Placed,0
+808,Engineering,58.9,56,No,200,157,Not Placed,0
+809,Finance,59.3,56.3,No,200,402,Placed,0
+810,Art,59.7,56.7,No,200,323,Not Placed,99000
+811,Business,60.1,57.1,No,200,181,Placed,0
+812,Computer Science,60.5,57.5,No,200,157,Placed,75500
+813,Engineering,60.9,57.9,No,200,266,Not Placed,86000
+814,Finance,61.3,58.2,No,200,268,Placed,0
+815,Art,61.7,58.6,No,200,167,Not Placed,0
+816,Business,62.1,59,Yes,200,342,Placed,0
+817,Computer Science,62.5,59.4,No,200,349,Placed,156500
+818,Engineering,62.9,59.8,No,200,340,Not Placed,99500
+819,Finance,63.3,60.1,No,200,227,Placed,148000
+820,Art,63.7,60.5,No,199,409,Not Placed,0
+821,Business,64.1,60.9,No,199,400,Placed,82000
+822,Computer Science,64.5,61.3,No,199,374,Placed,0
+823,Engineering,64.9,61.7,No,199,255,Not Placed,103500
+824,Finance,65.3,62,No,199,146,Placed,0
+825,Art,65.7,62.4,No,199,248,Not Placed,205500
+826,Business,66.1,62.8,Yes,199,198,Placed,103500
+827,Computer Science,66.5,63.2,No,199,210,Placed,340000
+828,Engineering,66.9,63.6,No,199,107,Not Placed,0
+829,Finance,67.3,63.9,No,199,239,Placed,103500
+830,Art,67.7,64.3,No,199,287,Not Placed,99500
+831,Business,68.1,64.7,No,198,340,Placed,103000
+832,Computer Science,68.5,65.1,No,198,155,Placed,103500
+833,Engineering,68.9,65.5,No,198,263,Not Placed,165000
+834,Finance,69.3,65.8,No,198,265,Placed,124500
+835,Art,69.7,66.2,No,198,249,Not Placed,103500
+836,Business,70.1,66.6,Yes,198,377,Placed,82500
+837,Computer Science,70.5,67,No,198,301,Placed,93000
+838,Engineering,70.9,67.4,No,198,242,Not Placed,0
+839,Finance,71.3,67.7,No,198,211,Placed,168000
+840,Art,71.7,68.1,No,198,160,Not Placed,96000
+841,Business,39.1,37.1,No,198,218,Placed,0
+842,Computer Science,41.3,39.2,No,198,133,Placed,0
+843,Engineering,43.5,41.3,No,197,122,Not Placed,80000
+844,Finance,45.7,43.4,No,197,236,Placed,0
+845,Art,47.9,45.5,No,197,143,Not Placed,124500
+846,Business,50.1,47.6,Yes,197,354,Placed,0
+847,Computer Science,52.3,49.7,No,197,214,Placed,99000
+848,Engineering,54.5,51.8,No,197,225,Not Placed,0
+849,Finance,56.7,53.9,No,197,261,Placed,0
+850,Art,58.9,56,No,197,277,Not Placed,0
+851,Business,61.1,58,No,197,282,Placed,124000
+852,Computer Science,63.3,60.1,No,197,322,Placed,0
+853,Engineering,65.5,62.2,No,197,326,Not Placed,0
+854,Finance,67.7,64.3,No,197,421,Placed,91500
+855,Art,69.9,66.4,No,196,368,Not Placed,144500
+856,Business,72.1,68.5,Yes,196,279,Placed,0
+857,Computer Science,74.3,70.6,No,196,268,Placed,0
+858,Engineering,76.5,72.7,No,196,261,Not Placed,114500
+859,Finance,78.7,74.8,No,196,261,Placed,0
+860,Art,80.9,76.9,No,196,261,Not Placed,104500
+861,Business,83.1,78.9,No,196,261,Placed,124000
+862,Computer Science,85.3,81,No,196,261,Placed,113000
+863,Engineering,87.5,83.1,No,196,261,Not Placed,78000
+864,Finance,89.7,85.2,No,196,261,Placed,0
+865,Art,91.9,87.3,No,196,261,Not Placed,109000
+866,Business,94.1,89.4,Yes,196,261,Placed,0
+867,Computer Science,96.3,91.5,No,195,261,Placed,99500
+868,Engineering,98.5,93.6,No,195,260,Not Placed,107000
+869,Finance,0,0,No,195,260,Placed,0
+870,Art,0,0,No,195,260,Not Placed,84000
+871,Business,0,0,No,195,260,Placed,0
+872,Computer Science,59.1,56.1,No,195,260,Placed,0
+873,Engineering,59.8,56.8,No,195,260,Not Placed,139000
+874,Finance,60.5,57.5,No,195,260,Placed,209666.6667
+875,Art,61.2,58.1,No,195,260,Not Placed,0
+876,Business,61.9,58.8,Yes,195,260,Placed,0
+877,Computer Science,62.6,59.5,No,195,443,Placed,169666.6667
+878,Engineering,63.3,60.1,No,194,366,Not Placed,0
+879,Finance,64,60.8,No,194,244,Placed,156333.3333
+880,Art,64.7,61.5,No,194,241,Not Placed,182333.3333
+881,Business,65.4,62.1,No,194,237,Placed,167666.6667
+882,Computer Science,66.1,62.8,No,194,122,Placed,121000
+883,Engineering,66.8,63.5,No,0,129,Not Placed,0
+884,Finance,67.5,64.1,No,194,236,Placed,162333.3333
+885,Art,68.2,64.8,No,194,251,Not Placed,0
+886,Business,68.9,65.5,Yes,194,283,Placed,149666.6667
+887,Computer Science,69.6,66.1,No,194,225,Placed,159666.6667
+888,Engineering,70.3,66.8,No,194,102,Not Placed,0
+889,Finance,71,67.5,No,0,180,Placed,129000
+890,Art,71.7,68.1,No,194,247,Not Placed,109000
+891,Business,72.4,68.8,No,193,343,Placed,0
+892,Computer Science,73.1,69.4,No,193,283,Placed,99500
+893,Engineering,73.8,70.1,No,193,253,Not Placed,107000
+894,Finance,74.5,70.8,No,193,263,Placed,0
+895,Art,75.2,71.4,No,193,291,Not Placed,84000
+896,Business,75.9,72.1,Yes,193,368,Placed,162333.3333
+897,Computer Science,76.6,72.8,No,193,206,Placed,0
+898,Engineering,77.3,73.4,No,0,231,Not Placed,149666.6667
+899,Finance,78,74.1,No,0,389,Placed,109000
+900,Art,78.7,74.8,No,0,396,Not Placed,0
+901,Business,79.4,75.4,No,193,339,Placed,99500
+902,Computer Science,80.1,76.1,No,192,286,Placed,107000
+903,Engineering,80.8,76.8,No,192,146,Not Placed,0
+904,Finance,81.5,77.4,No,192,315,Placed,84000
+905,Art,82.2,78.1,No,192,183,Not Placed,162333.3333
+906,Business,82.9,78.8,Yes,192,481,Placed,0
+907,Computer Science,83.6,79.4,No,192,349,Placed,149666.6667
+908,Engineering,84.3,80.1,No,192,225,Not Placed,159666.6667
+909,Finance,85,80.8,No,192,217,Placed,0
+910,Art,85.7,81.4,No,192,353,Not Placed,129000
+911,Business,86.4,82.1,No,192,314,Placed,136333.3333
+912,Computer Science,87.1,82.7,No,192,247,Placed,139000
+913,Engineering,87.8,83.4,No,191,410,Not Placed,0
+914,Finance,88.5,84.1,No,191,395,Placed,0
+915,Art,89.2,84.7,No,191,416,Not Placed,168333.3333
+916,Business,89.9,85.4,Yes,191,342,Placed,0
+917,Computer Science,90.6,86.1,No,191,446,Placed,0
+918,Engineering,91.3,86.7,No,191,477,Not Placed,0
+919,Finance,92,87.4,No,191,444,Placed,149000
+920,Art,92.7,88.1,No,191,351,Not Placed,0
+921,Business,93.4,88.7,No,191,165,Placed,117666.6667
+922,Computer Science,94.1,89.4,No,0,317,Placed,131666.6667
+923,Engineering,94.8,90.1,No,0,250,Not Placed,0
+924,Finance,95.5,90.7,No,191,217,Placed,0
+925,Art,96.2,91.4,No,190,138,Not Placed,0
+926,Business,96.9,92.1,Yes,190,302,Placed,225666.6667
+927,Computer Science,97.6,92.7,No,190,311,Placed,149666.6667
+928,Engineering,98.3,93.4,No,190,373,Not Placed,214333.3333
+929,Finance,99,94.1,No,190,196,Placed,0
+930,Art,99.7,94.7,No,190,306,Not Placed,126333.3333
+931,Business,59.1,56.1,No,190,302,Placed,0
+932,Computer Science,12.5,11.9,No,190,278,Placed,155000
+933,Engineering,30.7,29.2,No,190,429,Not Placed,0
+934,Finance,48.9,46.5,No,190,338,Placed,291000
+935,Art,67.1,63.7,No,190,261,Not Placed,155000
+936,Business,85.3,81,Yes,190,256,Placed,470333.3333
+937,Computer Science,0,0,No,189,183,Placed,0
+938,Engineering,0,0,No,189,274,Not Placed,155000
+939,Finance,0,0,No,189,182,Placed,149666.6667
+940,Art,0,0,No,189,183,Not Placed,154333.3333
+941,Business,0,0,No,189,309,Placed,155000
+942,Computer Science,41.3,39.2,No,189,178,Placed,237000
+943,Engineering,41.5,39.4,No,189,458,Not Placed,183000
+944,Finance,41.7,39.6,No,189,234,Placed,155000
+945,Art,41.9,39.8,No,189,306,Not Placed,127000
+946,Business,42.1,40,Yes,189,400,Placed,141000
+947,Computer Science,42.3,40.2,No,189,402.457789,Placed,0
+948,Engineering,42.5,40.4,No,189,404.915578,Not Placed,241000
+949,Finance,42.7,40.6,No,188,407.373367,Placed,145000
+950,Art,42.9,40.8,No,188,409.831156,Not Placed,0
+951,Business,43.1,40.9,No,188,412.288945,Placed,0
+952,Computer Science,43.3,41.1,No,188,414.746734,Placed,123666.6667
+953,Engineering,43.5,41.3,No,188,417.204523,Not Placed,0
+954,Finance,43.7,41.5,No,188,419.662312,Placed,183000
+955,Art,43.9,41.7,No,188,422.120101,Not Placed,0
+956,Business,44.1,41.9,Yes,188,424.57789,Placed,149000
+957,Computer Science,44.3,42.1,No,188,427.035679,Placed,0
+958,Engineering,44.5,42.3,No,188,429.493468,Not Placed,0
+959,Finance,44.7,42.5,No,188,200,Placed,0
+960,Art,44.9,42.7,No,187,200,Not Placed,182333.3333
+961,Business,45.1,42.8,No,187,199,Placed,0
+962,Computer Science,45.3,43,No,187,199,Placed,0
+963,Engineering,45.5,43.2,No,187,199,Not Placed,139000
+964,Finance,45.7,43.4,No,187,199,Placed,209666.6667
+965,Art,45.9,43.6,No,187,199,Not Placed,0
+966,Business,46.1,43.8,Yes,187,199,Placed,0
+967,Computer Science,46.3,44,No,187,199,Placed,169666.6667
+968,Engineering,46.5,44.2,No,187,199,Not Placed,0
+969,Finance,46.7,44.4,No,187,199,Placed,156333.3333
+970,Art,46.9,44.6,No,187,199,Not Placed,182333.3333
+971,Business,47.1,44.7,No,187,199,Placed,167666.6667
+972,Computer Science,47.3,44.9,No,186,198,Placed,121000
+973,Engineering,47.5,45.1,No,186,198,Not Placed,0
+974,Finance,47.7,45.3,No,186,198,Placed,162333.3333
+975,Art,47.9,45.5,No,186,198,Not Placed,0
+976,Business,48.1,45.7,Yes,186,198,Placed,149666.6667
+977,Computer Science,48.3,45.9,No,186,198,Placed,159666.6667
+978,Engineering,48.5,46.1,No,186,198,Not Placed,0
+979,Finance,48.7,46.3,No,186,198,Placed,129000
+980,Art,48.9,46.5,No,186,198,Not Placed,89500
+981,Business,49.1,46.6,No,186,198,Placed,91500
+982,Computer Science,49.3,46.8,No,186,198,Placed,0
+983,Engineering,49.5,47,No,186,198,Not Placed,0
+984,Finance,49.7,47.2,No,185,197,Placed,113500
+985,Art,49.9,47.4,No,185,197,Not Placed,0
+986,Business,50.1,47.6,Yes,185,197,Placed,0
+987,Computer Science,50.3,47.8,No,185,197,Placed,0
+988,Engineering,50.5,48,No,185,197,Not Placed,99000
+989,Finance,50.7,48.2,No,185,197,Placed,0
+990,Art,50.9,48.4,No,185,197,Not Placed,75500
+991,Business,51.1,48.5,No,185,197,Placed,86000
+992,Computer Science,51.3,48.7,No,185,197,Placed,0
+993,Engineering,51.5,48.9,No,185,197,Not Placed,0
+994,Finance,51.7,49.1,No,185,197,Placed,0
+995,Art,51.9,49.3,No,184,197,Not Placed,156500
+996,Business,52.1,49.5,Yes,184,196,Placed,99500
+997,Computer Science,52.3,49.7,No,184,196,Placed,148000
+998,Engineering,52.5,49.9,No,184,196,Not Placed,0
+999,Finance,52.7,50.1,No,184,196,Placed,82000
+1000,Art,52.9,50.3,No,184,196,Not Placed,0
+1001,Business,53.1,50.4,No,184,196,Placed,103500
+1002,Computer Science,53.3,50.6,No,184,196,Placed,0
+1003,Engineering,53.5,50.8,No,184,196,Not Placed,205500
+1004,Finance,53.7,51,No,184,196,Placed,103500
+1005,Art,53.9,51.2,No,184,196,Not Placed,340000
+1006,Business,54.1,51.4,Yes,184,196,Placed,0
+1007,Computer Science,54.3,51.6,No,183,196,Placed,103500
+1008,Engineering,54.5,51.8,No,183,195,Not Placed,99500
+1009,Finance,54.7,52,No,183,195,Placed,103000
+1010,Art,54.9,52.2,No,183,195,Not Placed,103500
+1011,Business,55.1,52.3,No,183,195,Placed,165000
+1012,Computer Science,55.3,52.5,No,183,195,Placed,124500
+1013,Engineering,55.5,52.7,No,183,195,Not Placed,103500
+1014,Finance,55.7,52.9,No,183,195,Placed,82500
+1015,Art,55.9,53.1,No,183,195,Not Placed,93000
+1016,Business,56.1,53.3,Yes,183,195,Placed,0
+1017,Computer Science,56.3,53.5,No,183,195,Placed,168000
+1018,Engineering,56.5,53.7,No,183,195,Not Placed,96000
+1019,Finance,56.7,53.9,No,182,194,Placed,0
+1020,Art,56.9,54.1,No,182,194,Not Placed,0
+1021,Business,57.1,54.2,No,182,194,Placed,80000
+1022,Computer Science,57.3,54.4,No,182,194,Placed,0
+1023,Engineering,57.5,54.6,No,182,194,Not Placed,124500
+1024,Finance,57.7,54.8,No,182,0,Placed,0
+1025,Art,57.9,55,No,182,194,Not Placed,99000
+1026,Business,58.1,55.2,Yes,182,194,Placed,0
+1027,Computer Science,58.3,55.4,No,182,194,Placed,0
+1028,Engineering,58.5,55.6,No,182,194,Not Placed,0
+1029,Finance,0,0,No,182,194,Placed,124000
+1030,Art,0,0,No,182,0,Not Placed,0
+1031,Business,0,0,No,181,194,Placed,0
+1032,Computer Science,35.7,33.9,No,181,193,Placed,91500
+1033,Engineering,36.3,34.5,No,181,193,Not Placed,144500
+1034,Finance,36.9,35.1,No,181,193,Placed,0
+1035,Art,37.5,35.6,No,181,193,Not Placed,0
+1036,Business,38.1,36.2,Yes,181,193,Placed,114500
+1037,Computer Science,38.7,36.8,No,181,193,Placed,0
+1038,Engineering,39.3,37.3,No,181,410,Not Placed,104500
+1039,Finance,39.9,37.9,No,181,119,Placed,124000
+1040,Art,40.5,38.5,No,181,334,Not Placed,113000
+1041,Business,41.1,39,No,181,252,Placed,78000
+1042,Computer Science,41.7,39.6,No,180,209,Placed,0
+1043,Engineering,42.3,40.2,No,180,462,Not Placed,109000
+1044,Finance,42.9,40.8,No,180,342,Placed,0
+1045,Art,43.5,41.3,No,180,347,Not Placed,99500
+1046,Business,44.1,41.9,Yes,180,313,Placed,107000
+1047,Computer Science,44.7,42.5,No,180,232,Placed,0
+1048,Engineering,45.3,43,No,180,163,Not Placed,84000
+1049,Finance,45.9,43.6,No,180,119,Placed,136333.3333
+1050,Art,46.5,44.2,No,180,304,Not Placed,139000
+1051,Business,47.1,44.7,No,180,211,Placed,0
+1052,Computer Science,47.7,45.3,No,180,286,Placed,0
+1053,Engineering,48.3,45.9,No,180,122,Not Placed,168333.3333
+1054,Finance,48.9,46.5,No,179,443,Placed,0
+1055,Art,49.5,47,No,179,366,Not Placed,0
+1056,Business,50.1,47.6,Yes,179,244,Placed,0
+1057,Computer Science,50.7,48.2,No,179,241,Placed,149000
+1058,Engineering,51.3,48.7,No,179,237,Not Placed,0
+1059,Finance,51.9,49.3,No,179,122,Placed,117666.6667
+1060,Art,52.5,49.9,No,179,129,Not Placed,131666.6667
+1061,Business,53.1,50.4,No,179,236,Placed,0
+1062,Computer Science,53.7,51,No,179,251,Placed,0
+1063,Engineering,54.3,51.6,No,179,283,Not Placed,0
+1064,Finance,54.9,52.2,No,179,225,Placed,225666.6667
+1065,Art,55.5,52.7,No,179,102,Not Placed,149666.6667
+1066,Business,56.1,53.3,Yes,178,180,Placed,214333.3333
+1067,Computer Science,56.7,53.9,No,178,247,Placed,0
+1068,Engineering,57.3,54.4,No,178,343,Not Placed,126333.3333
+1069,Finance,57.9,55,No,178,283,Placed,0
+1070,Art,58.5,55.6,No,178,253,Not Placed,155000
+1071,Business,59.1,56.1,No,178,263,Placed,0
+1072,Computer Science,59.7,56.7,No,178,291,Placed,291000
+1073,Engineering,60.3,57.3,No,178,368,Not Placed,155000
+1074,Finance,60.9,57.9,No,178,206,Placed,470333.3333
+1075,Art,61.5,58.4,No,178,231,Not Placed,0
+1076,Business,62.1,59,Yes,178,389,Placed,155000
+1077,Computer Science,62.7,59.6,No,177,396,Placed,149666.6667
+1078,Engineering,63.3,60.1,No,177,339,Not Placed,154333.3333
+1079,Finance,63.9,60.7,No,177,286,Placed,155000
+1080,Art,64.5,61.3,No,177,146,Not Placed,237000
+1081,Business,65.1,61.8,No,177,315,Placed,183000
+1082,Computer Science,65.7,62.4,No,177,183,Placed,155000
+1083,Engineering,66.3,63,No,177,481,Not Placed,127000
+1084,Finance,66.9,63.6,No,177,349,Placed,141000
+1085,Art,67.5,64.1,No,177,225,Not Placed,0
+1086,Business,68.1,64.7,Yes,177,217,Placed,241000
+1087,Computer Science,68.7,65.3,No,177,353,Placed,145000
+1088,Engineering,69.3,65.8,No,177,314,Not Placed,0
+1089,Finance,69.9,66.4,No,176,247,Placed,0
+1090,Art,70.5,67,No,176,410,Not Placed,123666.6667
+1091,Business,71.1,67.5,No,176,395,Placed,0
+1092,Computer Science,71.7,68.1,No,176,416,Placed,183000
+1093,Engineering,72.3,68.7,No,176,342,Not Placed,0
+1094,Finance,72.9,69.3,No,176,446,Placed,149000
+1095,Art,73.5,69.8,No,176,477,Not Placed,0
+1096,Business,74.1,70.4,Yes,176,444,Placed,0
+1097,Computer Science,74.7,71,No,176,351,Placed,0
+1098,Engineering,75.3,71.5,No,176,165,Not Placed,182333.3333
+1099,Finance,75.9,72.1,No,176,317,Placed,0
+1100,Art,76.5,72.7,No,176,250,Not Placed,0
+1101,Business,77.1,73.2,No,175,217,Placed,139000
+1102,Computer Science,77.7,73.8,No,175,138,Placed,209666.6667
+1103,Engineering,78.3,74.4,No,175,302,Not Placed,0
+1104,Finance,78.9,75,No,175,311,Placed,0
+1105,Art,79.5,75.5,No,175,373,Not Placed,169666.6667
+1106,Business,80.1,76.1,Yes,175,196,Placed,0
+1107,Computer Science,80.7,76.7,No,175,306,Placed,156333.3333
+1108,Engineering,81.3,77.2,No,175,302,Not Placed,182333.3333
+1109,Finance,81.9,77.8,No,175,278,Placed,167666.6667
+1110,Art,82.5,78.4,No,175,429,Not Placed,121000
+1111,Business,83.1,78.9,No,175,338,Placed,0
+1112,Computer Science,83.7,79.5,No,174,261,Placed,162333.3333
+1113,Engineering,84.3,80.1,No,174,256,Not Placed,0
+1114,Finance,84.9,80.7,No,174,183,Placed,149666.6667
+1115,Art,85.5,81.2,No,174,274,Not Placed,159666.6667
+1116,Business,86.1,81.8,Yes,174,182,Placed,0
+1117,Computer Science,86.7,82.4,No,174,183,Placed,129000
+1118,Engineering,87.3,82.9,No,174,309,Not Placed,89500
+1119,Finance,87.9,83.5,No,174,178,Placed,91500
+1120,Art,88.5,84.1,No,174,458,Not Placed,0
+1121,Business,89.1,84.6,No,174,234,Placed,0
+1122,Computer Science,89.7,85.2,No,174,306,Placed,113500
+1123,Engineering,90.3,85.8,No,174,400,Not Placed,0
+1124,Finance,90.9,86.4,No,173,0,Placed,0
+1125,Art,91.5,86.9,No,173,0,Not Placed,0
+1126,Business,92.1,87.5,Yes,173,0,Placed,99000
+1127,Computer Science,92.7,88.1,No,173,234,Placed,0
+1128,Engineering,93.3,88.6,No,173,236.9,Not Placed,75500
+1129,Finance,93.9,89.2,No,173,239.8,Placed,86000
+1130,Art,94.5,89.8,No,173,242.7,Not Placed,0
+1131,Business,95.1,90.3,No,173,245.6,Placed,0
+1132,Computer Science,95.7,90.9,No,173,248.5,Placed,0
+1133,Engineering,96.3,91.5,No,173,251.4,Not Placed,156500
+1134,Finance,96.9,92.1,No,173,254.3,Placed,99500
+1135,Art,97.5,92.6,No,173,257.2,Not Placed,148000
+1136,Business,98.1,93.2,Yes,172,260.1,Placed,0
+1137,Computer Science,98.7,93.8,No,172,263,Placed,82000
+1138,Engineering,99.3,94.3,No,172,265.9,Not Placed,0
+1139,Finance,99.9,94.9,No,172,268.8,Placed,103500
+1140,Art,15.7,14.9,No,172,271.7,Not Placed,0
+1141,Business,16,15.2,No,172,274.6,Placed,205500
+1142,Computer Science,16.3,15.5,No,172,277.5,Placed,103500
+1143,Engineering,16.6,15.8,No,172,280.4,Not Placed,340000
+1144,Finance,16.9,16.1,No,172,283.3,Placed,0
+1145,Art,17.2,16.3,No,172,286.2,Not Placed,103500
+1146,Business,17.5,16.6,Yes,172,289.1,Placed,99500
+1147,Computer Science,17.8,16.9,No,172,292,Placed,103000
+1148,Engineering,18.1,17.2,No,171,294.9,Not Placed,103500
+1149,Finance,18.4,17.5,No,171,297.8,Placed,165000
+1150,Art,18.7,17.8,No,171,300.7,Not Placed,124500
+1151,Business,19,18.1,No,171,303.6,Placed,103500
+1152,Computer Science,19.3,18.3,No,171,306.5,Placed,82500
+1153,Engineering,19.6,18.6,No,171,309.4,Not Placed,93000
+1154,Finance,19.9,18.9,No,171,312.3,Placed,0
+1155,Art,20.2,19.2,No,171,315.2,Not Placed,168000
+1156,Business,20.5,19.5,Yes,171,318.1,Placed,96000
+1157,Computer Science,20.8,19.8,No,171,321,Placed,0
+1158,Engineering,21.1,20,No,171,323.9,Not Placed,0
+1159,Finance,21.4,20.3,No,170,326.8,Placed,80000
+1160,Art,21.7,20.6,No,170,329.7,Not Placed,0
+1161,Business,22,20.9,No,170,332.6,Placed,124500
+1162,Computer Science,22.3,21.2,No,170,335.5,Placed,0
+1163,Engineering,22.6,21.5,No,170,338.4,Not Placed,99000
+1164,Finance,22.9,21.8,No,170,311,Placed,0
+1165,Art,23.2,22,No,170,314.1,Not Placed,0
+1166,Business,23.5,22.3,Yes,170,317.2,Placed,0
+1167,Computer Science,23.8,22.6,No,170,320.3,Placed,124000
+1168,Engineering,24.1,22.9,No,170,323.4,Not Placed,0
+1169,Finance,24.4,23.2,No,170,326.5,Placed,0
+1170,Art,24.7,23.5,No,170,329.6,Not Placed,91500
+1171,Business,25,23.8,No,169,332.7,Placed,144500
+1172,Computer Science,25.3,24,No,169,335.8,Placed,0
+1173,Engineering,25.6,24.3,No,169,338.9,Not Placed,0
+1174,Finance,25.9,24.6,No,169,342,Placed,114500
+1175,Art,26.2,24.9,No,169,345.1,Not Placed,0
+1176,Business,26.5,25.2,Yes,169,348.2,Placed,104500
+1177,Computer Science,26.8,25.5,No,169,351.3,Placed,124000
+1178,Engineering,27.1,25.7,No,169,354.4,Not Placed,113000
+1179,Finance,27.4,26,No,169,357.5,Placed,78000
+1180,Art,27.7,26.3,No,169,360.6,Not Placed,0
+1181,Business,28,26.6,No,169,363.7,Placed,109000
+1182,Computer Science,28.3,26.9,No,169,366.8,Placed,0
+1183,Engineering,28.6,27.2,No,168,369.9,Not Placed,99500
+1184,Finance,28.9,27.5,No,168,373,Placed,107000
+1185,Art,29.2,27.7,No,168,376.1,Not Placed,0
+1186,Business,29.5,28,Yes,168,379.2,Placed,84000
+1187,Computer Science,29.8,28.3,No,168,382.3,Placed,136333.3333
+1188,Engineering,30.1,28.6,No,168,385.4,Not Placed,139000
+1189,Finance,30.4,28.9,No,168,388.5,Placed,0
+1190,Art,30.7,29.2,No,168,391.6,Not Placed,0
+1191,Business,31,29.5,No,168,394.7,Placed,168333.3333
+1192,Computer Science,31.3,29.7,No,168,397.8,Placed,0
+1193,Engineering,31.6,30,No,168,400.9,Not Placed,0
+1194,Finance,31.9,30.3,No,167,404,Placed,0
+1195,Art,32.2,30.6,No,167,407.1,Not Placed,149000
+1196,Business,32.5,30.9,Yes,167,410.2,Placed,0
+1197,Computer Science,32.8,31.2,No,167,413.3,Placed,117666.6667
+1198,Engineering,33.1,31.4,No,167,416.4,Not Placed,131666.6667
+1199,Finance,33.4,31.7,No,167,419.5,Placed,0
+1200,Art,0,0,No,167,422.6,Not Placed,0
